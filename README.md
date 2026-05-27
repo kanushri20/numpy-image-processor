@@ -36,7 +36,6 @@ numpy-image-processor/
 ├── output/
 │
 ├── main.py
-├── requirements.txt
 ├── README.md
 ```
 

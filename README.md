@@ -30,7 +30,7 @@ This project demonstrates how images can be represented as multidimensional arra
 ```txt
 numpy-image-processor/
 │
-├── images/
+├── image/
 │   └── sample.jpg
 │
 ├── output/
